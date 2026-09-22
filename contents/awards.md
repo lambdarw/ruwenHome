@@ -1,4 +1,5 @@
 - **Competitions**
+  - 3rd Prize, Open Source Security Reward Program, Sep. 2025
   - 1st Prize, 13th NLPCC International Conference Shared Task (Shared Task 10), Nov. 2024
   - 2nd Prize, China Post-Graduate Mathematical Contest in Modeling, Oct. 2023
   - 2nd Prize, Interdisciplinary Contest in Modeling, Oct. 2020
@@ -6,7 +7,7 @@
   - 2nd Prize, 11th Lanqiao Cup National Python Programming Competition, Nov. 2020
 
 - **Awards**
-  - National scholarship, Qufu Normal University (top 1%), Oct. 2020  
-  - Outstanding student of Shandong Province, Qufu Normal University (top 1%), Oct. 2021 
-  - Model Student with All-round Excellence, Southeast University (top 1%), Oct. 2025 
-  - First-class Scholarship (Awarded annually for 7 consecutive years), 2018-2025 
+  - National scholarship, Oct. 2020  
+  - Outstanding student of Shandong Province, Oct. 2021 
+  - Model Student with All-round Excellence, Southeast University (top 1%), Oct. 2025
+  - Chiao Ting-piao Education Scholarship, Mar. 2026
