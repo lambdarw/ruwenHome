@@ -7,7 +7,8 @@
   - 2nd Prize, 11th Lanqiao Cup National Python Programming Competition, Nov. 2020
 
 - **Awards**
-  - National scholarship, Oct. 2020  
-  - Outstanding student of Shandong Province, Oct. 2021 
-  - Model Student with All-round Excellence, Southeast University (top 1%), Oct. 2025
+  - Advanced Individual in Academic Innovation, Southeast University, Sep. 2026
   - Chiao Ting-piao Education Scholarship, Mar. 2026
+  - Model Student with All-round Excellence, Southeast University, Oct. 2025
+  - Outstanding student of Shandong Province, Oct. 2021
+  - National scholarship, Oct. 2020
