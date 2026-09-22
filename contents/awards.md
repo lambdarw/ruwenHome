@@ -2,8 +2,8 @@
   - 3rd Prize, Open Source Security Reward Program, Sep. 2025
   - 1st Prize, 13th NLPCC International Conference Shared Task (Shared Task 10), Nov. 2024
   - 2nd Prize, China Post-Graduate Mathematical Contest in Modeling, Oct. 2023
-  - 2nd Prize, Interdisciplinary Contest in Modeling, Oct. 2020
   - 2nd Prize, iCAN Innovation Contest of Shandong Province, Nov. 2021
+  - 2nd Prize, Interdisciplinary Contest in Modeling, Oct. 2020
   - 2nd Prize, 11th Lanqiao Cup National Python Programming Competition, Nov. 2020
 
 - **Awards**
